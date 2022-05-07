@@ -1,0 +1,1 @@
+docker run --name http-server -d -p 80:80 server:latest
